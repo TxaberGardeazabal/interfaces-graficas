@@ -1,4 +1,4 @@
 # interfaces-graficas
-# ejrcicioo con java, jframe y otras
+# ejercicios con java, jframe, jdialog y otras
 # cosas relacionadas con lo grafico
 #
